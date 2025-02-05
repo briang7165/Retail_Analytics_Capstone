@@ -65,8 +65,3 @@ The key areas of focus were:
 - Measuring the impact of marketing campaigns
 - Evaluating store location influence on sales
 - Finding high-performing product categories
-
-## How to Use This Repository
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Retail_Analytics_Capstone.git
